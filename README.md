@@ -1,2 +1,5 @@
-# Python_Machine_Learning_Implementation
-We are going to implement basic machine learning algorithm in python
+# Python Machine Learning Implementation
+In this folder,I will be trying to solve machine learning algorithms and computer science algorithms from scratch.
+
+**Machine Learning**  
+**Leetcode**
